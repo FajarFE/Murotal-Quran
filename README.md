@@ -1,4 +1,10 @@
-![Alt Text](![Logo](https://github.com/FajarFE/Murotal-Quran/Untitled.png))
+![Alt Text](![Logo](https://github.com/FajarFE/Murotal-Quran/blob/main/Untitled.png))
+
+
+
+[![Download](https://img.shields.io/badge/Download-App-brightgreen)](https://drive.google.com/file/d/14GLn-g1cJfI1Nf2i8qWe6xgeHj91ugV5/view?usp=sharing)
+
+
 ## Getting Started
 
 First, run the development server:
