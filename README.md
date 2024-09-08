@@ -1,4 +1,4 @@
-![Alt Text](![Logo](https://github.com/FajarFE/Murotal-Quran/blob/main/Untitled.png))
+![Murotal Quran App](https://github.com/FajarFE/Murotal-Quran/blob/main/Untitled.png)
 
 
 
